@@ -1,3 +1,3 @@
-# This is my very first repository (repo) on Github
+# This is my very first repository on Github
 First time learning Github
 Look forward
